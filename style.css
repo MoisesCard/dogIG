@@ -35,3 +35,23 @@ header {
     height: 2rem;
     /* width: 2rem; */
 }
+
+/* post styles */
+.mainBody {
+    border: 1px red solid;
+    margin: 2rem;
+    background-color: black;
+}
+
+.post{
+    display: ;
+    height: 40rem;
+    width: 20rem;
+    background-color: rgb(85, 85, 85);
+}
+
+#postImage {
+    height: 20rem;
+    width: 19rem;
+ 
+}
